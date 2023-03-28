@@ -66,4 +66,13 @@ else{
     document.write("Você é um idoso")
 }
 
+let wow = prompt("Give me your idade")
+
+if (wow >= 18){
+    document.write("Você é maior de idade")
+}
+else {
+    document.write("Você é menor de idade")
+}
+
 
